@@ -1,0 +1,15 @@
+
+header {
+    background-color: yellow;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+}
+
+section {
+    background-color: aqua;
+}
